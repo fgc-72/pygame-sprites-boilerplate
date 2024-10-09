@@ -1,1 +1,1 @@
-# Pygame sprites lectures boirlerplate
+# Pygame sprites lecture
